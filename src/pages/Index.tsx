@@ -61,7 +61,7 @@ const Index = () => {
           
           <div className="mt-12 flex gap-4 justify-center items-center text-sm text-muted-foreground">
             <Users className="w-5 h-5" />
-            <span>Phone Call Champions</span>
+            <span>Unbreakable Bond</span>
             <span className="text-primary">•</span>
             <span>Brothers by Choice</span>
             <span className="text-primary">•</span>
