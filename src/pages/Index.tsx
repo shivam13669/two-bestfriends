@@ -17,8 +17,8 @@ const Index = () => {
     },
     {
       year: "2025",
-      title: "Reunion",
-      description: "Met again at practical submission day - the bond stronger than ever"
+      title: "Growing Stronger",
+      description: "Another practical submission day meeting, and the calls continue - building memories every day"
     }
   ];
 
