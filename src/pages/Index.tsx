@@ -187,7 +187,7 @@ const Index = () => {
         <p className="text-white text-lg font-medium">
           Celebrating a friendship that will last forever
         </p>
-        <p className="text-white/80 mt-2">Shivam & Anant • Best Friends Since 2015</p>
+        <p className="text-white/80 mt-2">Shivam & Anant</p>
       </footer>
     </div>
   );
