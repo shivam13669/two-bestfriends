@@ -16,7 +16,7 @@ const Index = () => {
       description: "Building a strong bond through endless phone conversations, sometimes talking for hours"
     },
     {
-      year: "2025",
+      year: "2025-Present",
       title: "Growing Stronger",
       description: "Another practical submission day meeting, and the calls continue - building memories every day"
     }
