@@ -6,34 +6,29 @@ import heroImage from "@/assets/hero-bg.jpg";
 const Index = () => {
   const memories = [
     {
-      year: "2015",
-      title: "The Beginning",
-      description: "Two strangers became friends, and friends became brothers"
-    },
-    {
-      year: "2018",
-      title: "Epic Adventures",
-      description: "From late-night study sessions to spontaneous road trips"
-    },
-    {
-      year: "2021",
-      title: "Growing Together",
-      description: "Supporting each other through challenges and celebrating victories"
-    },
-    {
       year: "2024",
-      title: "Forever Brothers",
-      description: "A friendship that continues to inspire and strengthen"
+      title: "First Meeting",
+      description: "Met at MSSCE College, Sitamarhi on practical submission day - instant connection"
+    },
+    {
+      year: "2024-2025",
+      title: "Phone Call Chronicles",
+      description: "Building a strong bond through endless phone conversations, sometimes talking for hours"
+    },
+    {
+      year: "2025",
+      title: "Reunion",
+      description: "Met again at practical submission day - the bond stronger than ever"
     }
   ];
 
   const funFacts = [
-    { icon: "🎮", text: "Gaming buddies since day one" },
-    { icon: "☕", text: "Countless coffee conversations" },
-    { icon: "🎵", text: "Shared playlist with 500+ songs" },
-    { icon: "🍕", text: "Pizza is always the answer" },
-    { icon: "🏃", text: "Gym accountability partners" },
-    { icon: "🎬", text: "Movie marathon champions" }
+    { icon: "📞", text: "Hours-long phone conversations" },
+    { icon: "💬", text: "Late night heart-to-heart talks" },
+    { icon: "🎓", text: "MSSCE College connection" },
+    { icon: "💪", text: "Unbreakable bond despite distance" },
+    { icon: "🤝", text: "Best friends in record time" },
+    { icon: "❤️", text: "Brotherhood built on trust" }
   ];
 
   return (
@@ -83,10 +78,11 @@ const Index = () => {
               Our Story
             </h2>
             <p className="text-lg text-muted-foreground max-w-3xl mx-auto leading-relaxed">
-              What started as a simple introduction has blossomed into an unbreakable bond. 
-              Through thick and thin, ups and downs, Shivam and Anant have proven that true 
-              friendship knows no bounds. Their journey is filled with laughter, support, 
-              adventures, and memories that will last a lifetime.
+              A chance meeting at MSSCE College, Sitamarhi during practical submission day 
+              sparked an extraordinary friendship. What makes it special? Despite the distance, 
+              Shivam and Anant became best friends in remarkably short time, connecting through 
+              countless phone calls - sometimes talking for hours. Their bond proves that true 
+              friendship doesn't need daily meetings, just genuine connection and trust.
             </p>
           </div>
 
