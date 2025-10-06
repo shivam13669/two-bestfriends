@@ -24,8 +24,8 @@ const Index = () => {
 
   const funFacts = [
     { icon: "📞", text: "Hours-long phone conversations" },
-    { icon: "💬", text: "Endless support and motivation" },
-    { icon: "🎓", text: "MSSCE College connection" },
+    { icon: "💬", text: "Endless support and understanding" },
+    { icon: "🎓", text: "MSSCE College memories" },
     { icon: "💪", text: "Unbreakable bond despite distance" },
     { icon: "🤝", text: "Best friends in record time" },
     { icon: "❤️", text: "Brotherhood built on trust" }
@@ -101,9 +101,9 @@ const Index = () => {
               <div className="w-16 h-16 mx-auto mb-4 rounded-full gradient-warm flex items-center justify-center">
                 <Sparkles className="w-8 h-8 text-white" />
               </div>
-              <h3 className="text-xl font-bold mb-3">Endless Adventures</h3>
+              <h3 className="text-xl font-bold mb-3">Shared Memories</h3>
               <p className="text-muted-foreground">
-                From spontaneous trips to planned escapades, every moment is an adventure
+                Creating unforgettable moments together, one conversation at a time
               </p>
             </Card>
 
