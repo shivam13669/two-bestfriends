@@ -24,7 +24,7 @@ const Index = () => {
 
   const funFacts = [
     { icon: "📞", text: "Hours-long phone conversations" },
-    { icon: "💬", text: "Late night heart-to-heart talks" },
+    { icon: "💬", text: "Endless support and motivation" },
     { icon: "🎓", text: "MSSCE College connection" },
     { icon: "💪", text: "Unbreakable bond despite distance" },
     { icon: "🤝", text: "Best friends in record time" },
