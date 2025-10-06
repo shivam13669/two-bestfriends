@@ -59,13 +59,21 @@ const Index = () => {
             A celebration of brotherhood, laughter, and unforgettable memories
           </p>
           
-          <div className="mt-12 flex gap-4 justify-center items-center text-sm text-muted-foreground">
-            <Users className="w-5 h-5" />
-            <span>Unbreakable Bond</span>
+          <div className="mt-12 flex gap-4 justify-center items-center text-sm text-muted-foreground flex-wrap">
+            <div className="flex items-center gap-2">
+              <Users className="w-5 h-5" />
+              <span>Unbreakable Bond</span>
+            </div>
             <span className="text-primary">•</span>
-            <span>Brothers by Choice</span>
+            <div className="flex items-center gap-2">
+              <Heart className="w-5 h-5" />
+              <span>Brothers by Choice</span>
+            </div>
             <span className="text-primary">•</span>
-            <span>Friends for Life</span>
+            <div className="flex items-center gap-2">
+              <Sparkles className="w-5 h-5" />
+              <span>Friends for Life</span>
+            </div>
           </div>
         </div>
       </section>
