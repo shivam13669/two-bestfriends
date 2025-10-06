@@ -8,7 +8,7 @@ const Index = () => {
     {
       year: "2024",
       title: "First Meeting",
-      description: "Met at MSSCE College, Sitamarhi on practical submission day - instant connection"
+      description: "We met at MSSCE College, Sitamarhi on practical submission day - instant connection"
     },
     {
       year: "2024-2025",
