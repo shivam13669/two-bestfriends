@@ -1,4 +1,4 @@
-import { Heart, Users, Calendar, Sparkles, Star } from "lucide-react";
+import { Heart, Users, Calendar, Sparkles, Smile } from "lucide-react";
 import { Card } from "@/components/ui/card";
 import { Badge } from "@/components/ui/badge";
 import heroImage from "@/assets/hero-bg.jpg";
@@ -64,13 +64,12 @@ const Index = () => {
               <Users className="w-5 h-5" />
               <span>Unbreakable Bond</span>
             </div>
-            <span className="text-primary">•</span>
             <div className="flex items-center gap-2">
               <Heart className="w-5 h-5" />
               <span>Brothers by Choice</span>
             </div>
             <div className="flex items-center gap-2">
-              <Star className="w-5 h-5" />
+              <Smile className="w-5 h-5" />
               <span>Friends for Life</span>
             </div>
           </div>
